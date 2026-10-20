@@ -1,7 +1,7 @@
-name: 'nevins 新的action'
+name: 'nevins 新的action_new'
 # 【description】一句话描述（必填，≤125 字符）
 # - 展示在 Marketplace 列表卡片与详情页「关于」区块
-description: 'A test GitHub Action for demonstration'
+description: 'A test GitHub Action for demonstration new'
 
 # 【author】作者（可选）
 # - 展示在 Marketplace 详情页，标注 Action 的编写者
